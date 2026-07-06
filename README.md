@@ -76,6 +76,10 @@ python src/analysis.py
 streamlit run dashboard/app.py
 ```
 
+The dashboard includes an optional live stress test. Visitors can paste their
+own Groq or Google AI Studio API key into password fields in the app, so the
+demo does not depend on the maintainer's API quota.
+
 ## Deploying to Streamlit Community Cloud
 
 1. Push this repo to GitHub.
@@ -112,8 +116,23 @@ goodhart-hiring-harness/
 
 ## Findings
 
-*(Fill this in after running the full evaluation -- paste the regression
-summary from `python src/analysis.py` and the key coefficient plot here.)*
+Current results include 214 scored resume/job-description pairs across Groq
+and Gemini. The Groq/Llama run is the main interpretable slice so far, with
+202 scored pairs.
+
+For Groq's Llama 3.3 70B, keyword-stuffed resume framing increased scores by
+0.58 points on average (p < 0.001), even though the underlying candidate
+substance was held constant. University framing, employment-gap disclosure,
+and years-of-experience framing did not show statistically significant effects
+in this run.
+
+This supports the central safety concern of the project: an LLM screener can
+reward presentation-level proxy optimization rather than only demonstrated
+candidate capability.
+
+Gemini currently has only 12 scored pairs in `results/scores.csv`, so its
+results should be treated as a smoke test until the full provider run is
+complete.
 
 ## Limitations
 
