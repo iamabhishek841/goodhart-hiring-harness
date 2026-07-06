@@ -1,0 +1,214 @@
+{"variant_id": "base_01_v00", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_01_v00", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v00", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v01", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_01_v01", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v01", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v02", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_01_v02", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v02", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v03", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_01_v03", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v03", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v04", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems\"}"}
+{"variant_id": "base_01_v04", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in production issues and tooling.\"}"}
+{"variant_id": "base_01_v04", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience.\"}"}
+{"variant_id": "base_01_v05", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems\"}"}
+{"variant_id": "base_01_v05", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical experience\"}"}
+{"variant_id": "base_01_v05", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_01_v06", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems\"}"}
+{"variant_id": "base_01_v06", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in performance and scalability.\"}"}
+{"variant_id": "base_01_v06", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience.\"}"}
+{"variant_id": "base_01_v07", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems\"}"}
+{"variant_id": "base_01_v07", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical experience and skills match.\"}"}
+{"variant_id": "base_01_v07", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering skills match job requirements.\"}"}
+{"variant_id": "base_01_v08", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_01_v08", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v08", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v09", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_01_v09", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v09", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v10", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_01_v10", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v10", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for Data Engineer role.\"}"}
+{"variant_id": "base_01_v11", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_01_v11", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v11", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for Data Engineer role.\"}"}
+{"variant_id": "base_01_v12", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems and scalable services.\"}"}
+{"variant_id": "base_01_v12", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in performance and scalability.\"}"}
+{"variant_id": "base_01_v12", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_01_v13", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems and scalable services.\"}"}
+{"variant_id": "base_01_v13", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical experience\"}"}
+{"variant_id": "base_01_v13", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_01_v14", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems and data pipelines.\"}"}
+{"variant_id": "base_01_v14", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical experience\"}"}
+{"variant_id": "base_01_v14", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience.\"}"}
+{"variant_id": "base_01_v15", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems and scalable services.\"}"}
+{"variant_id": "base_01_v15", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_01_v15", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering skills match job requirements.\"}"}
+{"variant_id": "base_01_v16", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for job requirements.\"}"}
+{"variant_id": "base_01_v16", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v16", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v17", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for job requirements.\"}"}
+{"variant_id": "base_01_v17", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v17", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v18", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_01_v18", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v18", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for Data Engineer role.\"}"}
+{"variant_id": "base_01_v19", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_01_v19", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v19", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for Data Engineer role.\"}"}
+{"variant_id": "base_01_v20", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend experience\"}"}
+{"variant_id": "base_01_v20", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical experience\"}"}
+{"variant_id": "base_01_v20", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_01_v21", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend experience\"}"}
+{"variant_id": "base_01_v21", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_01_v21", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering skills match job requirements.\"}"}
+{"variant_id": "base_01_v22", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend experience\"}"}
+{"variant_id": "base_01_v22", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical experience\"}"}
+{"variant_id": "base_01_v22", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience.\"}"}
+{"variant_id": "base_01_v23", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend experience\"}"}
+{"variant_id": "base_01_v23", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_01_v23", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience.\"}"}
+{"variant_id": "base_02_v00", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_02_v00", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v00", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v01", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_02_v01", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v01", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v02", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_02_v02", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_02_v02", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v03", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_02_v03", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v03", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v04", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in backend engineering\"}"}
+{"variant_id": "base_02_v04", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and automation.\"}"}
+{"variant_id": "base_02_v04", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong engineering background\"}"}
+{"variant_id": "base_02_v05", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v05", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical experience\"}"}
+{"variant_id": "base_02_v05", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant projects.\"}"}
+{"variant_id": "base_02_v06", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong experience in backend engineering.\"}"}
+{"variant_id": "base_02_v06", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and automation.\"}"}
+{"variant_id": "base_02_v06", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong engineering background and relevant experience.\"}"}
+{"variant_id": "base_02_v07", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in distributed systems and data pipelines.\"}"}
+{"variant_id": "base_02_v07", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and automation.\"}"}
+{"variant_id": "base_02_v07", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant projects.\"}"}
+{"variant_id": "base_02_v08", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_02_v08", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v08", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v09", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v09", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v09", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v10", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_02_v10", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_02_v10", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v11", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_02_v11", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v11", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v12", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in backend engineering\"}"}
+{"variant_id": "base_02_v12", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and automation.\"}"}
+{"variant_id": "base_02_v12", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong engineering background\"}"}
+{"variant_id": "base_02_v13", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend skills match job requirements.\"}"}
+{"variant_id": "base_02_v13", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical experience matches job requirements.\"}"}
+{"variant_id": "base_02_v13", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant projects.\"}"}
+{"variant_id": "base_02_v14", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in backend engineering\"}"}
+{"variant_id": "base_02_v14", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and incident response.\"}"}
+{"variant_id": "base_02_v14", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong engineering background\"}"}
+{"variant_id": "base_02_v15", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend experience\"}"}
+{"variant_id": "base_02_v15", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and automation.\"}"}
+{"variant_id": "base_02_v15", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant projects.\"}"}
+{"variant_id": "base_02_v16", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for job requirements.\"}"}
+{"variant_id": "base_02_v16", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v16", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v17", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match for backend engineer role.\"}"}
+{"variant_id": "base_02_v17", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_02_v17", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v18", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_02_v18", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_02_v18", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v19", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Matches job requirements perfectly.\"}"}
+{"variant_id": "base_02_v19", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 10, \"justification\": \"Strong match with required skills\"}"}
+{"variant_id": "base_02_v19", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_02_v20", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in backend engineering\"}"}
+{"variant_id": "base_02_v20", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and incident response.\"}"}
+{"variant_id": "base_02_v20", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong engineering background\"}"}
+{"variant_id": "base_02_v21", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in systems design and data pipelines.\"}"}
+{"variant_id": "base_02_v21", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and automation.\"}"}
+{"variant_id": "base_02_v21", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong data pipeline experience.\"}"}
+{"variant_id": "base_02_v22", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in backend engineering\"}"}
+{"variant_id": "base_02_v22", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in infrastructure and incident response.\"}"}
+{"variant_id": "base_02_v22", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong engineering background with relevant experience.\"}"}
+{"variant_id": "base_02_v23", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend skills match job requirements.\"}"}
+{"variant_id": "base_02_v23", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical match\"}"}
+{"variant_id": "base_02_v23", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong data pipeline experience.\"}"}
+{"variant_id": "base_03_v00", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v00", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills and experience.\"}"}
+{"variant_id": "base_03_v00", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v01", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v01", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v01", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v02", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v02", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills and experience.\"}"}
+{"variant_id": "base_03_v02", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v03", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v03", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills and experience.\"}"}
+{"variant_id": "base_03_v03", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v04", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in backend engineering\"}"}
+{"variant_id": "base_03_v04", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v04", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_03_v05", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in data pipelines and systems design.\"}"}
+{"variant_id": "base_03_v05", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v05", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_03_v06", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in backend engineering\"}"}
+{"variant_id": "base_03_v06", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v06", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_03_v07", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend skills and experience\"}"}
+{"variant_id": "base_03_v07", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v07", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_03_v08", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v08", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills and experience.\"}"}
+{"variant_id": "base_03_v08", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v09", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v09", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills and experience.\"}"}
+{"variant_id": "base_03_v09", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v10", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong match with required skills\"}"}
+{"variant_id": "base_03_v10", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills and experience.\"}"}
+{"variant_id": "base_03_v10", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v11", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v11", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills and experience.\"}"}
+{"variant_id": "base_03_v11", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v12", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in backend engineering\"}"}
+{"variant_id": "base_03_v12", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v12", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_03_v13", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend skills and experience.\"}"}
+{"variant_id": "base_03_v13", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v13", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_03_v14", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong experience in data pipelines and systems design.\"}"}
+{"variant_id": "base_03_v14", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v14", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience.\"}"}
+{"variant_id": "base_03_v15", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong backend skills and experience.\"}"}
+{"variant_id": "base_03_v15", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills, relevant experience.\"}"}
+{"variant_id": "base_03_v15", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong data engineering experience\"}"}
+{"variant_id": "base_03_v16", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong match with required skills\"}"}
+{"variant_id": "base_03_v16", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v16", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v17", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong skills match\"}"}
+{"variant_id": "base_03_v17", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills match job requirements.\"}"}
+{"variant_id": "base_03_v17", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_03_v18", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong match with required skills\"}"}
+{"variant_id": "base_03_v18", "jd_id": "jd_02", "provider": "groq", "raw_response": "{\"score\": 8, \"justification\": \"Strong technical skills and experience.\"}"}
+{"variant_id": "base_03_v18", "jd_id": "jd_03", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong Spark and SQL skills.\"}"}
+{"variant_id": "base_01_v00", "jd_id": "jd_01", "provider": "gemini", "raw_response": "```json\n{\"score"}
+{"variant_id": "base_01_v00", "jd_id": "jd_02", "provider": "gemini", "raw_response": "{\"score\": 9,"}
+{"variant_id": "base_01_v00", "jd_id": "jd_03", "provider": "gemini", "raw_response": "```json\n{\n  "}
+{"variant_id": "base_01_v01", "jd_id": "jd_01", "provider": "gemini", "raw_response": "{\"score\": 9"}
+{"variant_id": "base_01_v01", "jd_id": "jd_02", "provider": "gemini", "raw_response": "```json\n{\"score"}
+{"variant_id": "base_01_v01", "jd_id": "jd_03", "provider": "gemini", "raw_response": "{\"score\":"}
+{"variant_id": "base_01_v00", "jd_id": "jd_01", "provider": "gemini", "raw_response": "{\"score\": 9"}
+{"variant_id": "base_01_v00", "jd_id": "jd_03", "provider": "gemini", "raw_response": "```json\n{\n  "}
+{"variant_id": "base_01_v01", "jd_id": "jd_02", "provider": "gemini", "raw_response": "```json\n{\"score"}
+{"variant_id": "base_01_v01", "jd_id": "jd_03", "provider": "gemini", "raw_response": "```json\n{\"score"}
+{"variant_id": "base_01_v02", "jd_id": "jd_01", "provider": "gemini", "raw_response": "{\"score\": 10"}
+{"variant_id": "base_01_v02", "jd_id": "jd_02", "provider": "gemini", "raw_response": "```json\n{\""}
+{"variant_id": "base_03_v19", "jd_id": "jd_01", "provider": "groq", "raw_response": "{\"score\": 9, \"justification\": \"Strong match with required skills\"}"}

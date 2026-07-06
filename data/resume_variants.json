@@ -1,0 +1,866 @@
+[
+  {
+    "variant_id": "base_01_v00",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v01",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v02",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v03",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v04",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v05",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v06",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v07",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v08",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v09",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v10",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v11",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v12",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v13",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v14",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v15",
+    "base_resume_id": "base_01",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v16",
+    "base_resume_id": "base_01",
+    "resume_text": "4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v17",
+    "base_resume_id": "base_01",
+    "resume_text": "Experience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v18",
+    "base_resume_id": "base_01",
+    "resume_text": "4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v19",
+    "base_resume_id": "base_01",
+    "resume_text": "Experience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v20",
+    "base_resume_id": "base_01",
+    "resume_text": "4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v21",
+    "base_resume_id": "base_01",
+    "resume_text": "Experience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_01_v22",
+    "base_resume_id": "base_01",
+    "resume_text": "4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_01_v23",
+    "base_resume_id": "base_01",
+    "resume_text": "Experience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nDesigned and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.\n\nBuilt an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.\n\nMigrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.\n\nDebugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.\n\nMentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v00",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v01",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v02",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v03",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v04",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v05",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v06",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v07",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v08",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v09",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v10",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v11",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v12",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v13",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v14",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v15",
+    "base_resume_id": "base_02",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v16",
+    "base_resume_id": "base_02",
+    "resume_text": "4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v17",
+    "base_resume_id": "base_02",
+    "resume_text": "Experience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v18",
+    "base_resume_id": "base_02",
+    "resume_text": "4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v19",
+    "base_resume_id": "base_02",
+    "resume_text": "Experience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v20",
+    "base_resume_id": "base_02",
+    "resume_text": "4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v21",
+    "base_resume_id": "base_02",
+    "resume_text": "Experience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_02_v22",
+    "base_resume_id": "base_02",
+    "resume_text": "4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_02_v23",
+    "base_resume_id": "base_02",
+    "resume_text": "Experience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.\n\nWrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.\n\nReduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.\n\nIndependently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.\n\nWrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v00",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v01",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v02",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v03",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v04",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v05",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v06",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v07",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v08",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v09",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v10",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v11",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v12",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v13",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v14",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v15",
+    "base_resume_id": "base_03",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v16",
+    "base_resume_id": "base_03",
+    "resume_text": "4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v17",
+    "base_resume_id": "base_03",
+    "resume_text": "Experience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v18",
+    "base_resume_id": "base_03",
+    "resume_text": "4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v19",
+    "base_resume_id": "base_03",
+    "resume_text": "Experience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v20",
+    "base_resume_id": "base_03",
+    "resume_text": "4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v21",
+    "base_resume_id": "base_03",
+    "resume_text": "Experience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_03_v22",
+    "base_resume_id": "base_03",
+    "resume_text": "4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_03_v23",
+    "base_resume_id": "base_03",
+    "resume_text": "Experience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nBuilt an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.\n\nDesigned a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.\n\nRefactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.\n\nIndependently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.\n\nTook ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v00",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v01",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v02",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v03",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "top_tier",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v04",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v05",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v06",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\n4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v07",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Indian Institute of Technology (IIT) Delhi\nExperience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "top_tier",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v08",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v09",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v10",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v11",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "unranked",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v12",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v13",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v14",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\n4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v15",
+    "base_resume_id": "base_04",
+    "resume_text": "Education: B.Tech, Computer Science, Regional Institute of Technology\nExperience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "unranked",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v16",
+    "base_resume_id": "base_04",
+    "resume_text": "4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v17",
+    "base_resume_id": "base_04",
+    "resume_text": "Experience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v18",
+    "base_resume_id": "base_04",
+    "resume_text": "4+ years of professional software engineering experience.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v19",
+    "base_resume_id": "base_04",
+    "resume_text": "Experience demonstrated through the project work below.\n\nSkills: Python, distributed systems, SQL, Apache Spark, CI/CD, Docker, cloud infrastructure, data structures, algorithms, systems design, monitoring, incident response, scalability, performance optimization.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "omitted",
+    "keyword_framing": "stuffed",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v20",
+    "base_resume_id": "base_04",
+    "resume_text": "4+ years of professional software engineering experience.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v21",
+    "base_resume_id": "base_04",
+    "resume_text": "Experience demonstrated through the project work below.\nCareer Break (6 months, personal reasons) -- Jan 2025 to Jun 2025\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "gap_present",
+    "years_framing": "project_only"
+  },
+  {
+    "variant_id": "base_04_v22",
+    "base_resume_id": "base_04",
+    "resume_text": "4+ years of professional software engineering experience.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "explicit_years"
+  },
+  {
+    "variant_id": "base_04_v23",
+    "base_resume_id": "base_04",
+    "resume_text": "Experience demonstrated through the project work below.\n\nI enjoy working across the stack -- from designing services to digging into performance issues -- and have picked up cloud and data tooling along the way as projects needed it.\n\nExperience:\nImplemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.\n\nProvisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.\n\nFound and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.\n\nBuilt a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.\n\nVolunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.",
+    "university_tier": "omitted",
+    "keyword_framing": "natural",
+    "employment_gap": "no_gap",
+    "years_framing": "project_only"
+  }
+]

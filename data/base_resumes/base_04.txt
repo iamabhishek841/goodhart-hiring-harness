@@ -1,0 +1,11 @@
+SUBSTANCE_BLOCK_START
+Implemented a recursive-descent SQL parser and B-Tree-indexed storage engine from first principles, benchmarking query performance against SQLite on equivalent workloads and documenting the tradeoffs in a public write-up.
+
+Provisioned cloud infrastructure end to end for a multi-service deployment, including subnet configuration, load balancer setup, and OCI authentication, then automated the entire flow into a repeatable deployment pipeline for Java and Python services.
+
+Found and fixed a subtle off-by-one bug in a production rate limiter that was silently throttling roughly 3% of legitimate traffic during peak load, verified via synthetic load testing before and after the fix.
+
+Built a lightweight internal tool that let non-engineers query production data safely through a constrained SQL subset, eliminating a recurring bottleneck where every ad-hoc data request needed an engineer.
+
+Volunteered to lead a cross-team incident postmortem process, standardizing the format so root causes and action items were consistently tracked and followed up on.
+SUBSTANCE_BLOCK_END

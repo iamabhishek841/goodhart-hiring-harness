@@ -1,0 +1,207 @@
+variant_id,jd_id,provider,model,score,justification,timestamp
+base_01_v00,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:42:16.459534+00:00
+base_01_v00,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:42:18.628538+00:00
+base_01_v00,jd_03,groq,llama-3.3-70b-versatile,10,Strong Spark and SQL skills.,2026-07-06T22:42:20.859595+00:00
+base_01_v01,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:42:23.078194+00:00
+base_01_v01,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:42:25.304636+00:00
+base_01_v01,jd_03,groq,llama-3.3-70b-versatile,10,Strong Spark and SQL skills.,2026-07-06T22:42:35.571954+00:00
+base_01_v02,jd_01,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:42:37.739564+00:00
+base_01_v02,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:42:39.909137+00:00
+base_01_v02,jd_03,groq,llama-3.3-70b-versatile,10,Strong Spark and SQL skills.,2026-07-06T22:42:42.097345+00:00
+base_01_v03,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:42:44.313110+00:00
+base_01_v03,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:42:46.507569+00:00
+base_01_v03,jd_03,groq,llama-3.3-70b-versatile,10,Strong Spark and SQL skills.,2026-07-06T22:42:48.715688+00:00
+base_01_v04,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems,2026-07-06T22:42:50.874656+00:00
+base_01_v04,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in production issues and tooling.,2026-07-06T22:42:53.106647+00:00
+base_01_v04,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience.,2026-07-06T22:42:55.248642+00:00
+base_01_v05,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems,2026-07-06T22:42:57.405247+00:00
+base_01_v05,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical experience,2026-07-06T22:42:59.603268+00:00
+base_01_v05,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:43:01.779067+00:00
+base_01_v06,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems,2026-07-06T22:43:04.005910+00:00
+base_01_v06,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in performance and scalability.,2026-07-06T22:43:06.169289+00:00
+base_01_v06,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience.,2026-07-06T22:43:08.308694+00:00
+base_01_v07,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems,2026-07-06T22:43:10.463770+00:00
+base_01_v07,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical experience and skills match.,2026-07-06T22:43:12.638858+00:00
+base_01_v07,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering skills match job requirements.,2026-07-06T22:43:14.822344+00:00
+base_01_v08,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:43:17.002517+00:00
+base_01_v08,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:43:19.199809+00:00
+base_01_v08,jd_03,groq,llama-3.3-70b-versatile,10,Strong Spark and SQL skills.,2026-07-06T22:43:21.372580+00:00
+base_01_v09,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:43:23.549982+00:00
+base_01_v09,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:43:25.731654+00:00
+base_01_v09,jd_03,groq,llama-3.3-70b-versatile,10,Strong Spark and SQL skills.,2026-07-06T22:43:27.907684+00:00
+base_01_v10,jd_01,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:43:30.112928+00:00
+base_01_v10,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:43:32.350712+00:00
+base_01_v10,jd_03,groq,llama-3.3-70b-versatile,10,Strong match for Data Engineer role.,2026-07-06T22:43:34.545209+00:00
+base_01_v11,jd_01,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:43:36.705091+00:00
+base_01_v11,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:43:38.880488+00:00
+base_01_v11,jd_03,groq,llama-3.3-70b-versatile,10,Strong match for Data Engineer role.,2026-07-06T22:43:41.046507+00:00
+base_01_v12,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems and scalable services.,2026-07-06T22:43:43.211657+00:00
+base_01_v12,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in performance and scalability.,2026-07-06T22:43:45.398230+00:00
+base_01_v12,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:43:47.557956+00:00
+base_01_v13,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems and scalable services.,2026-07-06T22:43:49.720699+00:00
+base_01_v13,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical experience,2026-07-06T22:43:51.919345+00:00
+base_01_v13,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:43:54.079933+00:00
+base_01_v14,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems and data pipelines.,2026-07-06T22:43:56.263504+00:00
+base_01_v14,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical experience,2026-07-06T22:43:58.431492+00:00
+base_01_v14,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience.,2026-07-06T22:44:00.717625+00:00
+base_01_v15,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems and scalable services.,2026-07-06T22:44:02.924268+00:00
+base_01_v15,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:44:05.091196+00:00
+base_01_v15,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering skills match job requirements.,2026-07-06T22:44:07.274413+00:00
+base_01_v16,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for job requirements.,2026-07-06T22:44:09.477762+00:00
+base_01_v16,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:44:11.666097+00:00
+base_01_v16,jd_03,groq,llama-3.3-70b-versatile,10,Strong Spark and SQL skills.,2026-07-06T22:44:13.857101+00:00
+base_01_v17,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for job requirements.,2026-07-06T22:44:16.023099+00:00
+base_01_v17,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:44:18.190035+00:00
+base_01_v17,jd_03,groq,llama-3.3-70b-versatile,10,Strong Spark and SQL skills.,2026-07-06T22:44:20.371307+00:00
+base_01_v18,jd_01,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:44:22.549834+00:00
+base_01_v18,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:44:24.763342+00:00
+base_01_v18,jd_03,groq,llama-3.3-70b-versatile,10,Strong match for Data Engineer role.,2026-07-06T22:44:26.967387+00:00
+base_01_v19,jd_01,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:44:29.131749+00:00
+base_01_v19,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:44:31.313595+00:00
+base_01_v19,jd_03,groq,llama-3.3-70b-versatile,10,Strong match for Data Engineer role.,2026-07-06T22:44:33.521510+00:00
+base_01_v20,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend experience,2026-07-06T22:44:35.705394+00:00
+base_01_v20,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical experience,2026-07-06T22:44:37.903522+00:00
+base_01_v20,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:44:40.105720+00:00
+base_01_v21,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend experience,2026-07-06T22:44:42.314496+00:00
+base_01_v21,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills match job requirements.,2026-07-06T22:44:44.486945+00:00
+base_01_v21,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering skills match job requirements.,2026-07-06T22:44:46.662678+00:00
+base_01_v22,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend experience,2026-07-06T22:44:48.818479+00:00
+base_01_v22,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical experience,2026-07-06T22:44:51.042967+00:00
+base_01_v22,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience.,2026-07-06T22:44:53.188699+00:00
+base_01_v23,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend experience,2026-07-06T22:44:55.370818+00:00
+base_01_v23,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:44:57.562489+00:00
+base_01_v23,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience.,2026-07-06T22:44:59.730465+00:00
+base_02_v00,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:45:01.945522+00:00
+base_02_v00,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:45:04.213259+00:00
+base_02_v00,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:45:06.501918+00:00
+base_02_v01,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:45:08.790699+00:00
+base_02_v01,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:45:10.966788+00:00
+base_02_v01,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:45:13.184663+00:00
+base_02_v02,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:45:15.370312+00:00
+base_02_v02,jd_02,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:45:17.539361+00:00
+base_02_v02,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:45:19.727747+00:00
+base_02_v03,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:45:21.908520+00:00
+base_02_v03,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:45:24.141772+00:00
+base_02_v03,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:45:26.661584+00:00
+base_02_v04,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in backend engineering,2026-07-06T22:45:29.415955+00:00
+base_02_v04,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and automation.,2026-07-06T22:45:31.607625+00:00
+base_02_v04,jd_03,groq,llama-3.3-70b-versatile,8,Strong engineering background,2026-07-06T22:45:33.785519+00:00
+base_02_v05,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:45:35.975618+00:00
+base_02_v05,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical experience,2026-07-06T22:45:38.134814+00:00
+base_02_v05,jd_03,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant projects.",2026-07-06T22:45:40.302601+00:00
+base_02_v06,jd_01,groq,llama-3.3-70b-versatile,10,Strong experience in backend engineering.,2026-07-06T22:45:42.487171+00:00
+base_02_v06,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and automation.,2026-07-06T22:45:44.749724+00:00
+base_02_v06,jd_03,groq,llama-3.3-70b-versatile,8,Strong engineering background and relevant experience.,2026-07-06T22:45:47.057641+00:00
+base_02_v07,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in distributed systems and data pipelines.,2026-07-06T22:45:49.267717+00:00
+base_02_v07,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and automation.,2026-07-06T22:45:52.000099+00:00
+base_02_v07,jd_03,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant projects.",2026-07-06T22:45:54.212396+00:00
+base_02_v08,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:45:56.402154+00:00
+base_02_v08,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:45:58.570902+00:00
+base_02_v08,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:46:00.839441+00:00
+base_02_v09,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:46:03.106912+00:00
+base_02_v09,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:46:05.277581+00:00
+base_02_v09,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:46:07.509269+00:00
+base_02_v10,jd_01,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:46:09.678715+00:00
+base_02_v10,jd_02,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:46:11.901475+00:00
+base_02_v10,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:46:14.234568+00:00
+base_02_v11,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:46:16.463800+00:00
+base_02_v11,jd_02,groq,llama-3.3-70b-versatile,10,Strong technical skills match job requirements.,2026-07-06T22:46:18.635271+00:00
+base_02_v11,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:46:20.843672+00:00
+base_02_v12,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in backend engineering,2026-07-06T22:46:23.011154+00:00
+base_02_v12,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and automation.,2026-07-06T22:46:25.221206+00:00
+base_02_v12,jd_03,groq,llama-3.3-70b-versatile,8,Strong engineering background,2026-07-06T22:46:27.421707+00:00
+base_02_v13,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend skills match job requirements.,2026-07-06T22:46:29.605331+00:00
+base_02_v13,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical experience matches job requirements.,2026-07-06T22:46:31.786842+00:00
+base_02_v13,jd_03,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant projects.",2026-07-06T22:46:34.052931+00:00
+base_02_v14,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in backend engineering,2026-07-06T22:46:36.262348+00:00
+base_02_v14,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and incident response.,2026-07-06T22:46:38.470855+00:00
+base_02_v14,jd_03,groq,llama-3.3-70b-versatile,8,Strong engineering background,2026-07-06T22:46:40.644254+00:00
+base_02_v15,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend experience,2026-07-06T22:46:42.804608+00:00
+base_02_v15,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and automation.,2026-07-06T22:46:44.979954+00:00
+base_02_v15,jd_03,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant projects.",2026-07-06T22:46:47.168368+00:00
+base_02_v16,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for job requirements.,2026-07-06T22:46:49.350187+00:00
+base_02_v16,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:46:51.516644+00:00
+base_02_v16,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:46:53.681161+00:00
+base_02_v17,jd_01,groq,llama-3.3-70b-versatile,10,Strong match for backend engineer role.,2026-07-06T22:46:55.878701+00:00
+base_02_v17,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:46:58.061021+00:00
+base_02_v17,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:47:00.236718+00:00
+base_02_v18,jd_01,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:47:02.429223+00:00
+base_02_v18,jd_02,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:47:04.627665+00:00
+base_02_v18,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:47:06.804315+00:00
+base_02_v19,jd_01,groq,llama-3.3-70b-versatile,10,Matches job requirements perfectly.,2026-07-06T22:47:08.964144+00:00
+base_02_v19,jd_02,groq,llama-3.3-70b-versatile,10,Strong match with required skills,2026-07-06T22:47:11.162665+00:00
+base_02_v19,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:47:13.337288+00:00
+base_02_v20,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in backend engineering,2026-07-06T22:47:15.528256+00:00
+base_02_v20,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and incident response.,2026-07-06T22:47:17.723183+00:00
+base_02_v20,jd_03,groq,llama-3.3-70b-versatile,8,Strong engineering background,2026-07-06T22:47:19.879518+00:00
+base_02_v21,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in systems design and data pipelines.,2026-07-06T22:47:22.060133+00:00
+base_02_v21,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and automation.,2026-07-06T22:47:24.259266+00:00
+base_02_v21,jd_03,groq,llama-3.3-70b-versatile,8,Strong data pipeline experience.,2026-07-06T22:47:26.416174+00:00
+base_02_v22,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in backend engineering,2026-07-06T22:47:28.620608+00:00
+base_02_v22,jd_02,groq,llama-3.3-70b-versatile,9,Strong experience in infrastructure and incident response.,2026-07-06T22:47:30.830892+00:00
+base_02_v22,jd_03,groq,llama-3.3-70b-versatile,8,Strong engineering background with relevant experience.,2026-07-06T22:47:33.004449+00:00
+base_02_v23,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend skills match job requirements.,2026-07-06T22:47:35.243287+00:00
+base_02_v23,jd_02,groq,llama-3.3-70b-versatile,9,Strong technical match,2026-07-06T22:47:37.416124+00:00
+base_02_v23,jd_03,groq,llama-3.3-70b-versatile,8,Strong data pipeline experience.,2026-07-06T22:47:39.577647+00:00
+base_03_v00,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:47:41.756693+00:00
+base_03_v00,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills and experience.,2026-07-06T22:47:43.906699+00:00
+base_03_v00,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:47:46.060753+00:00
+base_03_v01,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:47:48.298585+00:00
+base_03_v01,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:47:50.472336+00:00
+base_03_v01,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:47:52.635014+00:00
+base_03_v02,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:47:54.808217+00:00
+base_03_v02,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills and experience.,2026-07-06T22:47:57.002324+00:00
+base_03_v02,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:47:59.248411+00:00
+base_03_v03,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:48:01.448299+00:00
+base_03_v03,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills and experience.,2026-07-06T22:48:03.606782+00:00
+base_03_v03,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:48:05.794531+00:00
+base_03_v04,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in backend engineering,2026-07-06T22:48:08.152662+00:00
+base_03_v04,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:48:10.384006+00:00
+base_03_v04,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:48:12.570550+00:00
+base_03_v05,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in data pipelines and systems design.,2026-07-06T22:48:14.766445+00:00
+base_03_v05,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:48:16.970882+00:00
+base_03_v05,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:48:19.134750+00:00
+base_03_v06,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in backend engineering,2026-07-06T22:48:21.298329+00:00
+base_03_v06,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:48:23.491714+00:00
+base_03_v06,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:48:25.652301+00:00
+base_03_v07,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend skills and experience,2026-07-06T22:48:27.825281+00:00
+base_03_v07,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:48:30.012743+00:00
+base_03_v07,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:48:32.180875+00:00
+base_03_v08,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:48:34.349195+00:00
+base_03_v08,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills and experience.,2026-07-06T22:48:36.512510+00:00
+base_03_v08,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:48:38.676697+00:00
+base_03_v09,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:48:40.915178+00:00
+base_03_v09,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills and experience.,2026-07-06T22:48:43.095460+00:00
+base_03_v09,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:48:45.258764+00:00
+base_03_v10,jd_01,groq,llama-3.3-70b-versatile,9,Strong match with required skills,2026-07-06T22:48:47.441167+00:00
+base_03_v10,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills and experience.,2026-07-06T22:48:49.595462+00:00
+base_03_v10,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:48:51.759379+00:00
+base_03_v11,jd_01,groq,llama-3.3-70b-versatile,9,Strong technical skills match job requirements.,2026-07-06T22:48:53.947276+00:00
+base_03_v11,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills and experience.,2026-07-06T22:48:56.130805+00:00
+base_03_v11,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:48:58.331504+00:00
+base_03_v12,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in backend engineering,2026-07-06T22:49:00.891220+00:00
+base_03_v12,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:49:03.103743+00:00
+base_03_v12,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:49:05.281156+00:00
+base_03_v13,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend skills and experience.,2026-07-06T22:49:07.505370+00:00
+base_03_v13,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:49:09.757766+00:00
+base_03_v13,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:49:12.117224+00:00
+base_03_v14,jd_01,groq,llama-3.3-70b-versatile,9,Strong experience in data pipelines and systems design.,2026-07-06T22:49:14.306683+00:00
+base_03_v14,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:49:16.513872+00:00
+base_03_v14,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience.,2026-07-06T22:49:18.665036+00:00
+base_03_v15,jd_01,groq,llama-3.3-70b-versatile,9,Strong backend skills and experience.,2026-07-06T22:49:20.836641+00:00
+base_03_v15,jd_02,groq,llama-3.3-70b-versatile,8,"Strong technical skills, relevant experience.",2026-07-06T22:49:23.020554+00:00
+base_03_v15,jd_03,groq,llama-3.3-70b-versatile,9,Strong data engineering experience,2026-07-06T22:49:25.177359+00:00
+base_03_v16,jd_01,groq,llama-3.3-70b-versatile,9,Strong match with required skills,2026-07-06T22:49:27.350081+00:00
+base_03_v16,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills match job requirements.,2026-07-06T22:49:29.563545+00:00
+base_03_v16,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:49:31.761322+00:00
+base_03_v17,jd_01,groq,llama-3.3-70b-versatile,9,Strong skills match,2026-07-06T22:49:33.927145+00:00
+base_03_v17,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills match job requirements.,2026-07-06T22:49:36.110148+00:00
+base_03_v17,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:49:38.294861+00:00
+base_03_v18,jd_01,groq,llama-3.3-70b-versatile,9,Strong match with required skills,2026-07-06T22:49:40.467302+00:00
+base_03_v18,jd_02,groq,llama-3.3-70b-versatile,8,Strong technical skills and experience.,2026-07-06T22:49:42.653428+00:00
+base_03_v18,jd_03,groq,llama-3.3-70b-versatile,9,Strong Spark and SQL skills.,2026-07-06T22:49:44.897444+00:00
+base_01_v00,jd_02,gemini,gemini-2.5-flash,9,,2026-07-06T22:52:28.035501+00:00
+base_01_v01,jd_01,gemini,gemini-2.5-flash,9,,2026-07-06T22:52:31.932025+00:00
+base_01_v00,jd_01,gemini,gemini-2.5-flash,9,,2026-07-06T22:53:27.032359+00:00
+base_01_v02,jd_01,gemini,gemini-2.5-flash,10,,2026-07-06T22:53:33.553209+00:00
+base_03_v19,jd_01,groq,llama-3.3-70b-versatile,9,Strong match with required skills,2026-07-06T22:57:14.442959+00:00

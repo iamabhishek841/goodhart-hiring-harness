@@ -1,0 +1,11 @@
+SUBSTANCE_BLOCK_START
+Built a real-time anomaly detection pipeline for infrastructure metrics, combining a rolling z-score baseline with a lightweight gradient-boosted classifier, improving detection precision by roughly 18% over the prior rule-based system.
+
+Wrote a cloud runtime evaluation framework with a pluggable runner architecture supporting both Podman and Docker backends, including automated HTTP smoke-testing and structured failure classification, used to validate application portability across environments.
+
+Reduced end-to-end deployment time for a microservices platform from 25 minutes to 6 minutes by restructuring the CI pipeline to parallelize independent build stages and cache dependency layers.
+
+Independently diagnosed a race condition causing intermittent data corruption in a message queue consumer, reproduced it under controlled load, and fixed it with a proper idempotency key scheme.
+
+Wrote internal documentation and a runbook for on-call incident response after noticing repeated confusion during outages, adopted team-wide within a month.
+SUBSTANCE_BLOCK_END

@@ -1,0 +1,11 @@
+SUBSTANCE_BLOCK_START
+Designed and implemented a distributed job scheduling system handling 50,000+ tasks daily, reducing queue latency by 42% through a custom priority-based worker pool architecture.
+
+Built an in-memory SQL query engine from scratch in Python, including a B-Tree index implementation and a recursive-descent parser supporting SELECT, JOIN, and aggregate queries, with full CI test coverage via GitHub Actions.
+
+Migrated a legacy batch-processing pipeline from raw SQL scripts to Apache Spark, cutting compute cost by roughly 35% while maintaining identical output correctness verified through automated regression tests.
+
+Debugged and resolved a production memory leak in a multi-threaded service by profiling heap allocations under load, tracing the issue to an unbounded cache, and shipping a fix that cut memory usage by 60%.
+
+Mentored two junior engineers through code review and pairing sessions, focusing on test-driven development practices and defensive error handling.
+SUBSTANCE_BLOCK_END

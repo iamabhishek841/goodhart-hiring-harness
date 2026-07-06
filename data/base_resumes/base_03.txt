@@ -1,0 +1,11 @@
+SUBSTANCE_BLOCK_START
+Built an automated resume/document generation pipeline using a master data schema, templated LaTeX rendering, and a Python build script wired into CI, cutting document update time from roughly 40 minutes to under 2 minutes per revision.
+
+Designed a marketing mix model using regularized regression to attribute revenue impact across five channels, validating results against held-out data and building an interactive dashboard for non-technical stakeholders to explore scenario outcomes.
+
+Refactored a customer-interaction analytics platform processing roughly 250,000 transcripts, restructuring the SQL-to-Spark migration path to cut compute cost by approximately 35% without degrading downstream model accuracy.
+
+Independently identified that a production anomaly-detection model's RMSE could be improved by roughly 18% by re-engineering the feature set to include time-since-last-event signals the original model lacked.
+
+Took ownership of an underperforming data pipeline with frequent silent failures, added structured logging and alerting, and improved pipeline reliability by approximately 30% over the following quarter.
+SUBSTANCE_BLOCK_END
