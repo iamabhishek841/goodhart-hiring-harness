@@ -205,3 +205,11 @@ base_01_v01,jd_01,gemini,gemini-2.5-flash,9,,2026-07-06T22:52:31.932025+00:00
 base_01_v00,jd_01,gemini,gemini-2.5-flash,9,,2026-07-06T22:53:27.032359+00:00
 base_01_v02,jd_01,gemini,gemini-2.5-flash,10,,2026-07-06T22:53:33.553209+00:00
 base_03_v19,jd_01,groq,llama-3.3-70b-versatile,9,Strong match with required skills,2026-07-06T22:57:14.442959+00:00
+base_01_v00,jd_03,gemini,gemini-2.5-flash,10,"The candidate directly addresses all key requirements, demonstrating deep expertise in Spark, SQL, distributed systems, and measurable performance improvements.",2026-07-06T23:01:25.708108+00:00
+base_01_v01,jd_02,gemini,gemini-2.5-flash,8,,2026-07-06T23:01:42.789313+00:00
+base_01_v01,jd_03,gemini,gemini-2.5-flash,10,"The candidate directly addresses all key requirements, showcasing strong Spark, SQL, distributed systems, and measurable performance improvements through impressive project work.",2026-07-06T23:01:59.899565+00:00
+base_01_v02,jd_02,gemini,gemini-2.5-flash,9,,2026-07-06T23:02:16.816404+00:00
+base_01_v02,jd_03,gemini,gemini-2.5-flash,10,,2026-07-06T23:02:33.798848+00:00
+base_01_v03,jd_01,gemini,gemini-2.5-flash,10,"The candidate demonstrates exceptional alignment with all core requirements, including deep expertise in distributed systems, performance optimization, and debugging.",2026-07-06T23:02:50.465712+00:00
+base_01_v03,jd_02,gemini,gemini-2.5-flash,9,,2026-07-06T23:03:07.682576+00:00
+base_01_v03,jd_03,gemini,gemini-2.5-flash,10,,2026-07-06T23:03:25.578865+00:00
